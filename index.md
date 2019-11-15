@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 坚就是繁体酷
 
 You can use the [editor on GitHub](https://github.com/QinJ1024/QinJHTML/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
